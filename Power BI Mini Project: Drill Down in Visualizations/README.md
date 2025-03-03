@@ -24,3 +24,11 @@ Tested clicking on a customer to view individual order IDs, a functionality ofte
 6.Final Adjustments and Insights
 Refined chart layouts for better readability.
 Tested drill-up and drill-down interactions to ensure smooth transitions.
+
+before :
+![Screenshot (205)](https://github.com/user-attachments/assets/c5f1b3b8-0644-4347-aaa6-87540499ce87)
+
+after :
+![Screenshot (207)](https://github.com/user-attachments/assets/e10b0115-f862-4039-84b1-38ff76fb6f7c)
+
+
